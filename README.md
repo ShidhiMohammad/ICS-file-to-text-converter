@@ -3,7 +3,7 @@ CLI App written in Python, that takes dates as an input and prints out events wi
 The program was written including user-defined classes and regular expressions.
 
 In essence the program will:
-• read text input from a file, line by line;
-• implement required methods for the solution;
-• extract substrings from lines produced when reading a file;
-• return lists of strings corresponding to the format of the human-readable version of the calendar.
+ - read text input from a file, line by line;
+ - implement required methods for the solution;
+ - extract substrings from lines produced when reading a file;
+ - return lists of strings corresponding to the format of the human-readable version of the calendar.
