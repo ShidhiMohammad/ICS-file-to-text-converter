@@ -1,2 +1,2 @@
 # ics-to-text-converter
-CLI App that takes dates as an input and prints out events within those dates
+CLI App written in Python, that takes dates as an input and prints out events within those dates. The format for the CLI argument is referred to in the TESTS.md file. and example being: `./tester4.py --start=2021/2/14 --end=2021/2/14 --file=one.ics | diff test01.txt -`. This would print the events between those dates. My app accounts for events that would repeat as well, formatting them and printing it out in a chronological order.
